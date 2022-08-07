@@ -1,3 +1,0 @@
-# TypeScript
-
-LEARN TYPESCRIPT
